@@ -1,5 +1,10 @@
 # Bixi Project - Part 1 & 2 - Data Analysis in SQL & Tableau
 
+- [SQL Queries](https://github.com/mahyarsab/SQL_Tableau_Bixi_Project/blob/main/Mahyar_Bixi_Part1_SQL.sql)
+- [SQL Report](https://github.com/mahyarsab/SQL_Tableau_Bixi_Project/blob/main/Mahyar_Bixi_Part1_Report.pdf)
+- [Tableau File](https://github.com/mahyarsab/SQL_Tableau_Bixi_Project/blob/main/Mahyar_Bixi_Part2_Tableau.twb)
+- [Tableau Report](https://github.com/mahyarsab/SQL_Tableau_Bixi_Project/blob/main/Mahyar_Bixi_Part2_Report.pdf)
+
 <img alt="image" src="https://allvectorlogo.com/img/2017/07/bixi-montreal-logo.png">
 
 The project is divided into two parts. . In the first part I will use SQL to dig into the Bixi dataset. While in the second part I will further explore the data using Tableau and consistent with the visualization. My goal is to gain a high level understanding of how people use Bixi bikes, what factors influence the volume of usage, popular stations and overall business growth.
